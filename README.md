@@ -17,7 +17,6 @@ You've made it! It's time to put away the Excel sheet and join the big leagues. 
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.jpg)
 
 In this activity, you are tasked with creating a Python script for analyzing the financial records of your company. You will be provided with a financial dataset in this file: [budget_data.csv](PyBank/Resources/budget_data.csv). This dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 
@@ -48,8 +47,6 @@ Your resulting analysis should look similar to the following:
 Your final script should print the analysis to the terminal and export a text file with the results.
 
 ## PyRamen (Optional)
-
-![ramen.jpg](Images/ramen.jpg)
 
 ## Background
 
